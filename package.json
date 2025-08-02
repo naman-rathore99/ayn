@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "gsap": "^3.13.0",
+    "lenis": "^1.3.8"
+  },
+  "name": "ayn",
+  "description": "",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
